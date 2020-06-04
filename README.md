@@ -1,2 +1,2 @@
 # Projetos-Python
-This repository was created for add mini projects of python.
+This repository was created for add mini Python projects.
