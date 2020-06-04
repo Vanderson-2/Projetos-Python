@@ -1,6 +1,8 @@
 import PySimpleGUI as sg
 
 sg.theme('DarkPurple4')
+
+
 class TelaPython:
     def __init__(self):
         # Layout
