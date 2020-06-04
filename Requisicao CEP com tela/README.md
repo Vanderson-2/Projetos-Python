@@ -26,3 +26,5 @@
 
         self.tela = sg.Window('Busca de CEP',layout)
 		self.button, self.values = self.tela.Read()
+
+![resultado](https://i.imgur.com/bG276t2.png "resultado")
