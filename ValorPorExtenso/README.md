@@ -1,4 +1,4 @@
-###Valor por extenso 
+<h1>Valor por extenso</h1> 
 
 	Esse software escreve um número digitado por extenso. 
 	
